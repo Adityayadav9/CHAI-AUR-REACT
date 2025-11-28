@@ -1,0 +1,10 @@
+for running the code firstly we give the command for react library +> cd 01basicreact => npm run start
+and for vite=> cd 01vitereact => npm run dev
+in the react we use the [Chai.js]
+
+jo bhi component bana rhe hai vite aur react me unko naming convetion capitalize jona chahiye
+
+in the vite we make (Chai.jsx) + we use the jsx 
+
+
+<> </> => fragment return kardo
