@@ -1,0 +1,15 @@
+2025-12-06T06:23:37.533Z INFO SharedStateManager initialized
+2025-12-06T06:23:37.533Z INFO Is remote: false
+2025-12-06T06:23:37.534Z INFO Starting Local. Installation path: /Users/adityayadav/Desktop/sustainble carbon footprint tracker
+2025-12-06T06:23:37.534Z INFO [MainProvider] Creating new MainProvider instance...
+2025-12-06T06:23:37.534Z INFO [TabsManager] Code view listener set up at initialization
+2025-12-06T06:23:37.534Z INFO Installation path exists: /Users/adityayadav/Desktop/sustainble carbon footprint tracker
+2025-12-06T06:23:37.534Z INFO Initializing database with URL: file:/Users/adityayadav/Desktop/sustainble carbon footprint tracker/pythagora-core/data/database/pythagora.db
+2025-12-06T06:23:37.535Z INFO Database file exists, skipping prisma generate/push for faster startup
+2025-12-06T06:23:37.535Z INFO Database initialized successfully
+2025-12-06T06:23:37.536Z INFO [Migration] Checking for database migration...
+2025-12-06T06:23:38.427Z INFO [Migration] No migration needed
+2025-12-06T06:24:39.923Z INFO [TabsManager] First file opened, triggering split view
+2025-12-06T06:24:39.923Z INFO [MainProvider] First file opened, creating split view
+2025-12-06T06:24:44.460Z INFO [TabsManager] First file opened, triggering split view
+2025-12-06T06:24:44.460Z INFO [MainProvider] First file opened, creating split view
