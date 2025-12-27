@@ -13,3 +13,262 @@
 2025-12-06T06:24:39.923Z INFO [MainProvider] First file opened, creating split view
 2025-12-06T06:24:44.460Z INFO [TabsManager] First file opened, triggering split view
 2025-12-06T06:24:44.460Z INFO [MainProvider] First file opened, creating split view
+2025-12-07T12:33:38.554Z INFO Closing entire Pythagora extension...
+2025-12-07T12:33:38.574Z ERROR Error closing extension
+Error: Canceled
+Stack: Canceled: Canceled
+    at new ij (file:///Users/adityayadav/Desktop/Visual%20Studio%20Code.app/Contents/Resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:120021)
+    at JS.U (file:///Users/adityayadav/Desktop/Visual%20Studio%20Code.app/Contents/Resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:124631)
+    at Proxy.s.<computed>.n.charCodeAt.s.<computed> (file:///Users/adityayadav/Desktop/Visual%20Studio%20Code.app/Contents/Resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:122125)
+    at Zy.g (file:///Users/adityayadav/Desktop/Visual%20Studio%20Code.app/Contents/Resources/app/out/vs/workbench/api/node/extensionHostProcess.js:114:41133)
+    at Zy.executeCommand (file:///Users/adityayadav/Desktop/Visual%20Studio%20Code.app/Contents/Resources/app/out/vs/workbench/api/node/extensionHostProcess.js:114:40637)
+    at Object.executeCommand (file:///Users/adityayadav/Desktop/Visual%20Studio%20Code.app/Contents/Resources/app/out/vs/workbench/api/node/extensionHostProcess.js:210:101000)
+    at closeEntirePythagoraExtension (/Users/adityayadav/.vscode/extensions/pythagoratechnologies.pythagora-vs-code-2.6.16/out/extension.js:560:31)
+    at Object.deactivate (/Users/adityayadav/.vscode/extensions/pythagoratechnologies.pythagora-vs-code-2.6.16/out/extension.js:427:15)
+    at kX.eb (file:///Users/adityayadav/Desktop/Visual%20Studio%20Code.app/Contents/Resources/app/out/vs/workbench/api/node/extensionHostProcess.js:118:11850)
+    at file:///Users/adityayadav/Desktop/Visual%20Studio%20Code.app/Contents/Resources/app/out/vs/workbench/api/node/extensionHostProcess.js:118:10000
+    at Array.map (<anonymous>)
+    at kX.$ (file:///Users/adityayadav/Desktop/Visual%20Studio%20Code.app/Contents/Resources/app/out/vs/workbench/api/node/extensionHostProcess.js:118:9988)
+    at kX.terminate (file:///Users/adityayadav/Desktop/Visual%20Studio%20Code.app/Contents/Resources/app/out/vs/workbench/api/node/extensionHostProcess.js:118:10231)
+    at nN.terminate (file:///Users/adityayadav/Desktop/Visual%20Studio%20Code.app/Contents/Resources/app/out/vs/workbench/api/node/extensionHostProcess.js:120:914)
+    at Fs (file:///Users/adityayadav/Desktop/Visual%20Studio%20Code.app/Contents/Resources/app/out/vs/workbench/api/node/extensionHostProcess.js:402:10411)
+    at MessagePortMain.<anonymous> (file:///Users/adityayadav/Desktop/Visual%20Studio%20Code.app/Contents/Resources/app/out/vs/workbench/api/node/extensionHostProcess.js:402:6949)
+    at MessagePortMain.emit (node:events:519:28)
+    at MessagePortMain.emit (node:domain:489:12)
+    at Object.MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2949)
+Extra context: {
+  "message": "Canceled"
+}
+2025-12-07T12:37:14.565Z INFO SharedStateManager initialized
+2025-12-07T12:37:14.566Z INFO Is remote: false
+2025-12-07T12:37:14.566Z INFO Starting Local. Installation path: /Users/adityayadav/Desktop/sustainble carbon footprint tracker
+2025-12-07T12:37:14.566Z INFO [MainProvider] Creating new MainProvider instance...
+2025-12-07T12:37:14.566Z INFO [TabsManager] Code view listener set up at initialization
+2025-12-07T12:37:14.566Z INFO Installation path exists: /Users/adityayadav/Desktop/sustainble carbon footprint tracker
+2025-12-07T12:37:14.566Z INFO Initializing database with URL: file:/Users/adityayadav/Desktop/sustainble carbon footprint tracker/pythagora-core/data/database/pythagora.db
+2025-12-07T12:37:14.568Z INFO Database file exists, skipping prisma generate/push for faster startup
+2025-12-07T12:37:14.568Z INFO Database initialized successfully
+2025-12-07T12:37:14.568Z INFO [Migration] Checking for database migration...
+2025-12-07T12:37:14.792Z INFO [Migration] No migration needed
+2025-12-07T12:37:55.390Z INFO [TabsManager] First file opened, triggering split view
+2025-12-07T12:37:55.390Z INFO [MainProvider] First file opened, creating split view
+2025-12-07T12:38:07.360Z INFO [TabsManager] First file opened, triggering split view
+2025-12-07T12:38:07.361Z INFO [MainProvider] First file opened, creating split view
+2025-12-07T12:38:09.808Z INFO [TabsManager] First file opened, triggering split view
+2025-12-07T12:38:09.808Z INFO [MainProvider] First file opened, creating split view
+2025-12-07T19:14:17.225Z INFO Closing entire Pythagora extension...
+2025-12-07T19:14:17.253Z ERROR Error closing extension
+Error: Canceled
+Stack: Canceled: Canceled
+    at new ij (file:///Users/adityayadav/Desktop/Visual%20Studio%20Code.app/Contents/Resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:120021)
+    at JS.U (file:///Users/adityayadav/Desktop/Visual%20Studio%20Code.app/Contents/Resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:124631)
+    at Proxy.s.<computed>.n.charCodeAt.s.<computed> (file:///Users/adityayadav/Desktop/Visual%20Studio%20Code.app/Contents/Resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:122125)
+    at Zy.g (file:///Users/adityayadav/Desktop/Visual%20Studio%20Code.app/Contents/Resources/app/out/vs/workbench/api/node/extensionHostProcess.js:114:41133)
+    at Zy.executeCommand (file:///Users/adityayadav/Desktop/Visual%20Studio%20Code.app/Contents/Resources/app/out/vs/workbench/api/node/extensionHostProcess.js:114:40637)
+    at Object.executeCommand (file:///Users/adityayadav/Desktop/Visual%20Studio%20Code.app/Contents/Resources/app/out/vs/workbench/api/node/extensionHostProcess.js:210:101000)
+    at closeEntirePythagoraExtension (/Users/adityayadav/.vscode/extensions/pythagoratechnologies.pythagora-vs-code-2.6.16/out/extension.js:560:31)
+    at Object.deactivate (/Users/adityayadav/.vscode/extensions/pythagoratechnologies.pythagora-vs-code-2.6.16/out/extension.js:427:15)
+    at kX.eb (file:///Users/adityayadav/Desktop/Visual%20Studio%20Code.app/Contents/Resources/app/out/vs/workbench/api/node/extensionHostProcess.js:118:11850)
+    at file:///Users/adityayadav/Desktop/Visual%20Studio%20Code.app/Contents/Resources/app/out/vs/workbench/api/node/extensionHostProcess.js:118:10000
+    at Array.map (<anonymous>)
+    at kX.$ (file:///Users/adityayadav/Desktop/Visual%20Studio%20Code.app/Contents/Resources/app/out/vs/workbench/api/node/extensionHostProcess.js:118:9988)
+    at kX.terminate (file:///Users/adityayadav/Desktop/Visual%20Studio%20Code.app/Contents/Resources/app/out/vs/workbench/api/node/extensionHostProcess.js:118:10231)
+    at nN.terminate (file:///Users/adityayadav/Desktop/Visual%20Studio%20Code.app/Contents/Resources/app/out/vs/workbench/api/node/extensionHostProcess.js:120:914)
+    at Fs (file:///Users/adityayadav/Desktop/Visual%20Studio%20Code.app/Contents/Resources/app/out/vs/workbench/api/node/extensionHostProcess.js:402:10411)
+    at MessagePortMain.<anonymous> (file:///Users/adityayadav/Desktop/Visual%20Studio%20Code.app/Contents/Resources/app/out/vs/workbench/api/node/extensionHostProcess.js:402:6949)
+    at MessagePortMain.emit (node:events:519:28)
+    at MessagePortMain.emit (node:domain:489:12)
+    at Object.MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2949)
+Extra context: {
+  "message": "Canceled"
+}
+2025-12-22T10:24:01.267Z INFO Is remote: false
+2025-12-22T10:24:01.268Z INFO Starting Local. Installation path: /Users/adityayadav/Desktop/sustainble carbon footprint tracker
+2025-12-22T10:24:01.268Z INFO [MainProvider] Creating new MainProvider instance...
+2025-12-22T10:24:01.268Z INFO [TabsManager] Code view listener set up at initialization
+2025-12-22T10:24:01.268Z INFO Installation path exists: /Users/adityayadav/Desktop/sustainble carbon footprint tracker
+2025-12-22T10:24:01.268Z INFO Initializing database with URL: file:/Users/adityayadav/Desktop/sustainble carbon footprint tracker/pythagora-core/data/database/pythagora.db
+2025-12-22T10:24:01.269Z INFO Database file exists, skipping prisma generate/push for faster startup
+2025-12-22T10:24:01.269Z INFO Database initialized successfully
+2025-12-22T10:24:01.270Z INFO [Migration] Checking for database migration...
+2025-12-22T10:24:01.500Z INFO [Migration] No migration needed
+2025-12-22T10:24:13.363Z INFO [TabsManager] First file opened, triggering split view
+2025-12-22T10:24:13.364Z INFO [MainProvider] First file opened, creating split view
+2025-12-22T10:24:16.163Z INFO [TabsManager] First file opened, triggering split view
+2025-12-22T10:24:16.163Z INFO [MainProvider] First file opened, creating split view
+2025-12-22T18:49:07.949Z INFO Closing entire Pythagora extension...
+2025-12-22T18:49:07.981Z ERROR Error closing extension
+Error: Canceled
+Stack: Canceled: Canceled
+    at new wU (file:///Users/adityayadav/Desktop/Visual%20Studio%20Code.app/Contents/Resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:120470)
+    at l5.U (file:///Users/adityayadav/Desktop/Visual%20Studio%20Code.app/Contents/Resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:125080)
+    at Proxy.s.<computed>.n.charCodeAt.s.<computed> (file:///Users/adityayadav/Desktop/Visual%20Studio%20Code.app/Contents/Resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:122574)
+    at cA.g (file:///Users/adityayadav/Desktop/Visual%20Studio%20Code.app/Contents/Resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:41228)
+    at cA.executeCommand (file:///Users/adityayadav/Desktop/Visual%20Studio%20Code.app/Contents/Resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:40732)
+    at Object.executeCommand (file:///Users/adityayadav/Desktop/Visual%20Studio%20Code.app/Contents/Resources/app/out/vs/workbench/api/node/extensionHostProcess.js:212:102269)
+    at closeEntirePythagoraExtension (/Users/adityayadav/.vscode/extensions/pythagoratechnologies.pythagora-vs-code-2.6.19/out/extension.js:542:31)
+    at Object.deactivate (/Users/adityayadav/.vscode/extensions/pythagoratechnologies.pythagora-vs-code-2.6.19/out/extension.js:409:15)
+    at HX.eb (file:///Users/adityayadav/Desktop/Visual%20Studio%20Code.app/Contents/Resources/app/out/vs/workbench/api/node/extensionHostProcess.js:120:11850)
+    at file:///Users/adityayadav/Desktop/Visual%20Studio%20Code.app/Contents/Resources/app/out/vs/workbench/api/node/extensionHostProcess.js:120:10000
+    at Array.map (<anonymous>)
+    at HX.$ (file:///Users/adityayadav/Desktop/Visual%20Studio%20Code.app/Contents/Resources/app/out/vs/workbench/api/node/extensionHostProcess.js:120:9988)
+    at HX.terminate (file:///Users/adityayadav/Desktop/Visual%20Studio%20Code.app/Contents/Resources/app/out/vs/workbench/api/node/extensionHostProcess.js:120:10231)
+    at yN.terminate (file:///Users/adityayadav/Desktop/Visual%20Studio%20Code.app/Contents/Resources/app/out/vs/workbench/api/node/extensionHostProcess.js:122:914)
+    at Us (file:///Users/adityayadav/Desktop/Visual%20Studio%20Code.app/Contents/Resources/app/out/vs/workbench/api/node/extensionHostProcess.js:404:11129)
+    at MessagePortMain.<anonymous> (file:///Users/adityayadav/Desktop/Visual%20Studio%20Code.app/Contents/Resources/app/out/vs/workbench/api/node/extensionHostProcess.js:404:7604)
+    at MessagePortMain.emit (node:events:519:28)
+    at MessagePortMain.emit (node:domain:489:12)
+    at Object.MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2949)
+Extra context: {
+  "message": "Canceled"
+}
+2025-12-23T17:56:41.406Z INFO Is remote: false
+2025-12-23T17:56:41.407Z INFO Starting Local. Installation path: /Users/adityayadav/Desktop/sustainble carbon footprint tracker
+2025-12-23T17:56:41.407Z INFO [MainProvider] Creating new MainProvider instance...
+2025-12-23T17:56:41.407Z INFO [TabsManager] Code view listener set up at initialization
+2025-12-23T17:56:41.407Z INFO Installation path exists: /Users/adityayadav/Desktop/sustainble carbon footprint tracker
+2025-12-23T17:56:41.408Z INFO Initializing database with URL: file:/Users/adityayadav/Desktop/sustainble carbon footprint tracker/pythagora-core/data/database/pythagora.db
+2025-12-23T17:56:41.409Z INFO Database file exists, skipping prisma generate/push for faster startup
+2025-12-23T17:56:41.409Z INFO Database initialized successfully
+2025-12-23T17:56:41.409Z INFO [Migration] Checking for database migration...
+2025-12-23T17:56:41.664Z INFO [Migration] No migration needed
+2025-12-23T18:01:45.824Z INFO [TabsManager] First file opened, triggering split view
+2025-12-23T18:01:45.825Z INFO [MainProvider] First file opened, creating split view
+2025-12-23T18:01:47.208Z INFO [TabsManager] First file opened, triggering split view
+2025-12-23T18:01:47.208Z INFO [MainProvider] First file opened, creating split view
+2025-12-23T20:07:32.739Z INFO Is remote: false
+2025-12-23T20:07:32.740Z INFO Starting Local. Installation path: /Users/adityayadav/Desktop/sustainble carbon footprint tracker
+2025-12-23T20:07:32.740Z INFO [MainProvider] Creating new MainProvider instance...
+2025-12-23T20:07:32.741Z INFO [TabsManager] Code view listener set up at initialization
+2025-12-23T20:07:32.741Z INFO Installation path exists: /Users/adityayadav/Desktop/sustainble carbon footprint tracker
+2025-12-23T20:07:32.741Z INFO Initializing database with URL: file:/Users/adityayadav/Desktop/sustainble carbon footprint tracker/pythagora-core/data/database/pythagora.db
+2025-12-23T20:07:32.742Z INFO Database file exists, skipping prisma generate/push for faster startup
+2025-12-23T20:07:32.742Z INFO Database initialized successfully
+2025-12-23T20:07:32.742Z INFO [Migration] Checking for database migration...
+2025-12-23T20:07:32.921Z INFO [Migration] No migration needed
+2025-12-23T20:07:36.423Z INFO [TabsManager] First file opened, triggering split view
+2025-12-23T20:07:36.423Z INFO [MainProvider] First file opened, creating split view
+2025-12-23T20:08:32.676Z INFO [TabsManager] First file opened, triggering split view
+2025-12-23T20:08:32.676Z INFO [MainProvider] First file opened, creating split view
+2025-12-23T20:08:34.881Z INFO [TabsManager] First file opened, triggering split view
+2025-12-23T20:08:34.882Z INFO [MainProvider] First file opened, creating split view
+2025-12-24T22:09:49.648Z INFO Closing entire Pythagora extension...
+2025-12-24T22:09:49.667Z ERROR Error closing extension
+Error: Canceled
+Stack: Canceled: Canceled
+    at new wU (file:///Users/adityayadav/Desktop/Visual%20Studio%20Code.app/Contents/Resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:120470)
+    at l5.U (file:///Users/adityayadav/Desktop/Visual%20Studio%20Code.app/Contents/Resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:125080)
+    at Proxy.s.<computed>.n.charCodeAt.s.<computed> (file:///Users/adityayadav/Desktop/Visual%20Studio%20Code.app/Contents/Resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:122574)
+    at cA.g (file:///Users/adityayadav/Desktop/Visual%20Studio%20Code.app/Contents/Resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:41228)
+    at cA.executeCommand (file:///Users/adityayadav/Desktop/Visual%20Studio%20Code.app/Contents/Resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:40732)
+    at Object.executeCommand (file:///Users/adityayadav/Desktop/Visual%20Studio%20Code.app/Contents/Resources/app/out/vs/workbench/api/node/extensionHostProcess.js:212:102269)
+    at closeEntirePythagoraExtension (/Users/adityayadav/.vscode/extensions/pythagoratechnologies.pythagora-vs-code-2.6.19/out/extension.js:542:31)
+    at Object.deactivate (/Users/adityayadav/.vscode/extensions/pythagoratechnologies.pythagora-vs-code-2.6.19/out/extension.js:409:15)
+    at HX.eb (file:///Users/adityayadav/Desktop/Visual%20Studio%20Code.app/Contents/Resources/app/out/vs/workbench/api/node/extensionHostProcess.js:120:11850)
+    at file:///Users/adityayadav/Desktop/Visual%20Studio%20Code.app/Contents/Resources/app/out/vs/workbench/api/node/extensionHostProcess.js:120:10000
+    at Array.map (<anonymous>)
+    at HX.$ (file:///Users/adityayadav/Desktop/Visual%20Studio%20Code.app/Contents/Resources/app/out/vs/workbench/api/node/extensionHostProcess.js:120:9988)
+    at HX.terminate (file:///Users/adityayadav/Desktop/Visual%20Studio%20Code.app/Contents/Resources/app/out/vs/workbench/api/node/extensionHostProcess.js:120:10231)
+    at yN.terminate (file:///Users/adityayadav/Desktop/Visual%20Studio%20Code.app/Contents/Resources/app/out/vs/workbench/api/node/extensionHostProcess.js:122:914)
+    at Us (file:///Users/adityayadav/Desktop/Visual%20Studio%20Code.app/Contents/Resources/app/out/vs/workbench/api/node/extensionHostProcess.js:404:11129)
+    at MessagePortMain.<anonymous> (file:///Users/adityayadav/Desktop/Visual%20Studio%20Code.app/Contents/Resources/app/out/vs/workbench/api/node/extensionHostProcess.js:404:7604)
+    at MessagePortMain.emit (node:events:519:28)
+    at MessagePortMain.emit (node:domain:489:12)
+    at Object.MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2949)
+Extra context: {
+  "message": "Canceled"
+}
+2025-12-24T22:10:12.885Z INFO Closing entire Pythagora extension...
+2025-12-24T22:10:12.904Z ERROR Error closing extension
+Error: Canceled
+Stack: Canceled: Canceled
+    at new wU (file:///Users/adityayadav/Desktop/Visual%20Studio%20Code.app/Contents/Resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:120470)
+    at l5.U (file:///Users/adityayadav/Desktop/Visual%20Studio%20Code.app/Contents/Resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:125080)
+    at Proxy.s.<computed>.n.charCodeAt.s.<computed> (file:///Users/adityayadav/Desktop/Visual%20Studio%20Code.app/Contents/Resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:122574)
+    at cA.g (file:///Users/adityayadav/Desktop/Visual%20Studio%20Code.app/Contents/Resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:41228)
+    at cA.executeCommand (file:///Users/adityayadav/Desktop/Visual%20Studio%20Code.app/Contents/Resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:40732)
+    at Object.executeCommand (file:///Users/adityayadav/Desktop/Visual%20Studio%20Code.app/Contents/Resources/app/out/vs/workbench/api/node/extensionHostProcess.js:212:102269)
+    at closeEntirePythagoraExtension (/Users/adityayadav/.vscode/extensions/pythagoratechnologies.pythagora-vs-code-2.6.19/out/extension.js:542:31)
+    at Object.deactivate (/Users/adityayadav/.vscode/extensions/pythagoratechnologies.pythagora-vs-code-2.6.19/out/extension.js:409:15)
+    at HX.eb (file:///Users/adityayadav/Desktop/Visual%20Studio%20Code.app/Contents/Resources/app/out/vs/workbench/api/node/extensionHostProcess.js:120:11850)
+    at file:///Users/adityayadav/Desktop/Visual%20Studio%20Code.app/Contents/Resources/app/out/vs/workbench/api/node/extensionHostProcess.js:120:10000
+    at Array.map (<anonymous>)
+    at HX.$ (file:///Users/adityayadav/Desktop/Visual%20Studio%20Code.app/Contents/Resources/app/out/vs/workbench/api/node/extensionHostProcess.js:120:9988)
+    at HX.terminate (file:///Users/adityayadav/Desktop/Visual%20Studio%20Code.app/Contents/Resources/app/out/vs/workbench/api/node/extensionHostProcess.js:120:10231)
+    at yN.terminate (file:///Users/adityayadav/Desktop/Visual%20Studio%20Code.app/Contents/Resources/app/out/vs/workbench/api/node/extensionHostProcess.js:122:914)
+    at Us (file:///Users/adityayadav/Desktop/Visual%20Studio%20Code.app/Contents/Resources/app/out/vs/workbench/api/node/extensionHostProcess.js:404:11129)
+    at MessagePortMain.<anonymous> (file:///Users/adityayadav/Desktop/Visual%20Studio%20Code.app/Contents/Resources/app/out/vs/workbench/api/node/extensionHostProcess.js:404:7604)
+    at MessagePortMain.emit (node:events:519:28)
+    at MessagePortMain.emit (node:domain:489:12)
+    at Object.MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2949)
+Extra context: {
+  "message": "Canceled"
+}
+2025-12-24T22:13:11.974Z INFO Is remote: false
+2025-12-24T22:13:11.974Z INFO Starting Local. Installation path: /Users/adityayadav/Desktop/sustainble carbon footprint tracker
+2025-12-24T22:13:11.975Z INFO [MainProvider] Creating new MainProvider instance...
+2025-12-24T22:13:11.975Z INFO [TabsManager] Code view listener set up at initialization
+2025-12-24T22:13:11.976Z INFO Installation path exists: /Users/adityayadav/Desktop/sustainble carbon footprint tracker
+2025-12-24T22:13:11.976Z INFO Initializing database with URL: file:/Users/adityayadav/Desktop/sustainble carbon footprint tracker/pythagora-core/data/database/pythagora.db
+2025-12-24T22:13:11.978Z INFO Database file exists, skipping prisma generate/push for faster startup
+2025-12-24T22:13:11.978Z INFO Database initialized successfully
+2025-12-24T22:13:11.978Z INFO [Migration] Checking for database migration...
+2025-12-24T22:13:12.640Z INFO [Migration] No migration needed
+2025-12-24T22:14:02.875Z INFO [TabsManager] First file opened, triggering split view
+2025-12-24T22:14:02.876Z INFO [MainProvider] First file opened, creating split view
+2025-12-24T22:14:26.969Z INFO [TabsManager] First file opened, triggering split view
+2025-12-24T22:14:26.969Z INFO [MainProvider] First file opened, creating split view
+2025-12-24T22:14:27.968Z INFO [TabsManager] First file opened, triggering split view
+2025-12-24T22:14:27.969Z INFO [MainProvider] First file opened, creating split view
+2025-12-26T12:12:00.757Z INFO Is remote: false
+2025-12-26T12:12:00.758Z INFO Starting Local. Installation path: /Users/adityayadav/Desktop/sustainble carbon footprint tracker
+2025-12-26T12:12:00.758Z INFO [MainProvider] Creating new MainProvider instance...
+2025-12-26T12:12:00.758Z INFO [TabsManager] Code view listener set up at initialization
+2025-12-26T12:12:00.758Z INFO Installation path exists: /Users/adityayadav/Desktop/sustainble carbon footprint tracker
+2025-12-26T12:12:00.758Z INFO Initializing database with URL: file:/Users/adityayadav/Desktop/sustainble carbon footprint tracker/pythagora-core/data/database/pythagora.db
+2025-12-26T12:12:00.762Z INFO Database file exists, skipping prisma generate/push for faster startup
+2025-12-26T12:12:00.763Z INFO Database initialized successfully
+2025-12-26T12:12:00.763Z INFO [Migration] Checking for database migration...
+2025-12-26T12:12:00.997Z INFO [Migration] No migration needed
+2025-12-26T17:33:42.768Z INFO Closing entire Pythagora extension...
+2025-12-26T17:33:42.777Z ERROR Error closing extension
+Error: Canceled
+Stack: Canceled: Canceled
+    at new wU (file:///Users/adityayadav/Desktop/Visual%20Studio%20Code.app/Contents/Resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:120470)
+    at l5.U (file:///Users/adityayadav/Desktop/Visual%20Studio%20Code.app/Contents/Resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:125080)
+    at Proxy.s.<computed>.n.charCodeAt.s.<computed> (file:///Users/adityayadav/Desktop/Visual%20Studio%20Code.app/Contents/Resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:122574)
+    at cA.g (file:///Users/adityayadav/Desktop/Visual%20Studio%20Code.app/Contents/Resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:41228)
+    at cA.executeCommand (file:///Users/adityayadav/Desktop/Visual%20Studio%20Code.app/Contents/Resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:40732)
+    at Object.executeCommand (file:///Users/adityayadav/Desktop/Visual%20Studio%20Code.app/Contents/Resources/app/out/vs/workbench/api/node/extensionHostProcess.js:212:102269)
+    at closeEntirePythagoraExtension (/Users/adityayadav/.vscode/extensions/pythagoratechnologies.pythagora-vs-code-2.6.19/out/extension.js:542:31)
+    at Object.deactivate (/Users/adityayadav/.vscode/extensions/pythagoratechnologies.pythagora-vs-code-2.6.19/out/extension.js:409:15)
+    at HX.eb (file:///Users/adityayadav/Desktop/Visual%20Studio%20Code.app/Contents/Resources/app/out/vs/workbench/api/node/extensionHostProcess.js:120:11850)
+    at file:///Users/adityayadav/Desktop/Visual%20Studio%20Code.app/Contents/Resources/app/out/vs/workbench/api/node/extensionHostProcess.js:120:10000
+    at Array.map (<anonymous>)
+    at HX.$ (file:///Users/adityayadav/Desktop/Visual%20Studio%20Code.app/Contents/Resources/app/out/vs/workbench/api/node/extensionHostProcess.js:120:9988)
+    at HX.terminate (file:///Users/adityayadav/Desktop/Visual%20Studio%20Code.app/Contents/Resources/app/out/vs/workbench/api/node/extensionHostProcess.js:120:10231)
+    at yN.terminate (file:///Users/adityayadav/Desktop/Visual%20Studio%20Code.app/Contents/Resources/app/out/vs/workbench/api/node/extensionHostProcess.js:122:914)
+    at Us (file:///Users/adityayadav/Desktop/Visual%20Studio%20Code.app/Contents/Resources/app/out/vs/workbench/api/node/extensionHostProcess.js:404:11129)
+    at MessagePortMain.<anonymous> (file:///Users/adityayadav/Desktop/Visual%20Studio%20Code.app/Contents/Resources/app/out/vs/workbench/api/node/extensionHostProcess.js:404:7604)
+    at MessagePortMain.emit (node:events:519:28)
+    at MessagePortMain.emit (node:domain:489:12)
+    at Object.MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2949)
+Extra context: {
+  "message": "Canceled"
+}
+2025-12-26T17:36:28.208Z INFO Is remote: false
+2025-12-26T17:36:28.208Z INFO Starting Local. Installation path: /Users/adityayadav/Desktop/sustainble carbon footprint tracker
+2025-12-26T17:36:28.208Z INFO [MainProvider] Creating new MainProvider instance...
+2025-12-26T17:36:28.209Z INFO [TabsManager] Code view listener set up at initialization
+2025-12-26T17:36:28.209Z INFO Installation path exists: /Users/adityayadav/Desktop/sustainble carbon footprint tracker
+2025-12-26T17:36:28.209Z INFO Initializing database with URL: file:/Users/adityayadav/Desktop/sustainble carbon footprint tracker/pythagora-core/data/database/pythagora.db
+2025-12-26T17:36:28.210Z INFO Database file exists, skipping prisma generate/push for faster startup
+2025-12-26T17:36:28.210Z INFO Database initialized successfully
+2025-12-26T17:36:28.210Z INFO [Migration] Checking for database migration...
+2025-12-26T17:36:28.422Z INFO [Migration] No migration needed
+2025-12-26T17:36:48.709Z INFO [TabsManager] First file opened, triggering split view
+2025-12-26T17:36:48.710Z INFO [MainProvider] First file opened, creating split view
+2025-12-26T17:36:51.264Z INFO [TabsManager] First file opened, triggering split view
+2025-12-26T17:36:51.264Z INFO [MainProvider] First file opened, creating split view
+2025-12-26T17:36:53.484Z INFO [TabsManager] First file opened, triggering split view
+2025-12-26T17:36:53.485Z INFO [MainProvider] First file opened, creating split view
